@@ -12,7 +12,6 @@ Installed automatically via `npm install`:
 | Package | Purpose |
 |--------|---------|
 | typescript | Type checking + compilation |
-| ts-node | Run TS directly |
 | jest | Test runner |
 | ts-jest | TypeScript transformer for Jest |
 | @types/jest | Jest type definitions |
